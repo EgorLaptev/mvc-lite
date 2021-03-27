@@ -17,9 +17,8 @@
 	</header>
 
 	<div class="wrap">
-		<?= $content ?>
+		<?php include $view; ?>
 	</div>
-	
 
 	<footer class="page-footer">
 		<a href="tel:+79217708973">+7 (921) 770 89-73</a>
